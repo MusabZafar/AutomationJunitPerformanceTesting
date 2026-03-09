@@ -1,0 +1,5 @@
+username,password,shouldSucceed,expectedMessage
+student,Password123,true,
+incorrectUser,Password123,false,Your username is invalid!
+student,incorrectPassword,false,Your password is invalid!
+wrong,wrong,false,Your username is invalid!

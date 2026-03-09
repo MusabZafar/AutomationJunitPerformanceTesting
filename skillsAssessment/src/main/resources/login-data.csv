@@ -1,0 +1,5 @@
+TestCaseID,Username,Password,ExpectedOutcome
+1,standard_user,secret_sauce,Success
+2,invalid_user,secret_sauce,Failure
+3,standard_user,wrong_password,Failure
+4,invalid_user,wrong_password,Failure

@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1772965574467,310,HTTP Request - Example Home Page,200,OK,Thread Group - Basic Users 1-1,text,true,,842,114,1,1,https://example.com/,305,0,257
